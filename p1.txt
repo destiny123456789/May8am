@@ -1,2 +1,6 @@
 p1 is added
+<<<<<<< HEAD
 Modifying to check reset
+=======
+Modifying
+>>>>>>> 84354ffbb8e338614619261dd8063a0c34e3235b
